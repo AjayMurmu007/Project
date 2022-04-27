@@ -1,0 +1,14 @@
+[25-Dec-2021 10:36:02 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/sopiga4m/madok.sopigroup.in/database/db.php on line 2
+[25-Dec-2021 10:36:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sopiga4m/madok.sopigroup.in/index.php on line 567
+[25-Dec-2021 10:36:48 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/sopiga4m/madok.sopigroup.in/database/db.php on line 2
+[25-Dec-2021 10:36:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sopiga4m/madok.sopigroup.in/index.php on line 567
+[25-Dec-2021 10:36:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home1/sopiga4m/madok.sopigroup.in/database/db.php on line 2
+[25-Dec-2021 10:36:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home1/sopiga4m/madok.sopigroup.in/index.php on line 567
+[30-Dec-2021 06:03:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:04:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:04:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:05:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:05:24 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:05:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:06:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
+[30-Dec-2021 06:06:54 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/sopiga4m/madok.sopigroup.in/checkout.php on line 172
